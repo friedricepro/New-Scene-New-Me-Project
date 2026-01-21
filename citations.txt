@@ -1,0 +1,21 @@
+1/17/26 ChatGPT color help
+
+Prompts : hey for code.org do u know a color thats light blue i can use for my method
+, i tried cyan and light blue but theresno such color coded so i was wondering if u 
+could help me find the name.
+
+Reason : I couldn't find the color palet with the color names java accepts
+
+Result: lightBlue = new int[] {173, 216, 230}; (It didn't work and I realized I wasted my time because regular blue was better)
+
+-----------------------------------------------------------------------------------------------------------------------
+
+1/18/26 ChatGPT progress check 
+
+Prompts : Can you check out my code and make sure it's functional with the correct logic
+
+Reason : I was on the brink of finishing and after I proofread my code I wanted a different POV to check it out.
+
+Result: Told me to add a bit more comments, and maybe 1-2 helper methods.
+
+-----------------------------------------------------------------------------------------------------------------------
